@@ -52,7 +52,7 @@ Scikit-learn for machine learning algorithms and model evaluation.
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/Iris-Flower-Classification.git
+git clone https://github.com/Brainyst/Iris-Flower-Classification.git
 
 Install dependencies:
 
